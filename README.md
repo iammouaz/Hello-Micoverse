@@ -4,7 +4,6 @@
 
 > this is the Hello-Microverse Project .
 
-![screenshot](./app_screenshot.png)
 ## Built With
 
 - HTML
